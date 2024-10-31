@@ -1,0 +1,1233 @@
+# Copyright (C) 2018 Payplug
+# This file is distributed under the same license as the Payplug package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Payplug 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/payplug-woocommerce\n"
+"POT-Creation-Date: 2021-02-26 14:03+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#: src/Gateway/PayplugGateway.php:383
+msgid " I have integrated the Oney legal notices into the GCSs of my site"
+msgstr ""
+
+#: src/Gateway/PayplugGatewayOney4x.php:47
+#: src/Gateway/PayplugGatewayOney3x.php:79
+msgid "1st monthly payment"
+msgstr "2^ rata"
+
+#: src/Gateway/PayplugGatewayOney4x.php:51
+#: src/Gateway/PayplugGatewayOney3x.php:83
+msgid "2nd monthly payment"
+msgstr "3^ rata"
+
+#: src/Admin/Metabox.php:97
+msgid "3 D Secure"
+msgstr "3 D Secure"
+
+#: src/Gateway/PayplugGatewayOney4x.php:55
+msgid "3rd monthly payment"
+msgstr "4^ rata"
+
+#: src/Gateway/PayplugGateway.php:367 src/Gateway/PayplugGateway.php:375
+msgid "Activate"
+msgstr "Connessione effettuata"
+
+#: src/Gateway/PayplugGateway.php:352
+msgid "Activate debug mode"
+msgstr "Attivare la modalità Debug"
+
+#: src/Gateway/PayplugGateway.php:357
+msgid "payplug_advanced_settings"
+msgstr "Impostazioni avanzate"
+
+#: src/Gateway/PayplugGateway.php:377
+#, php-format
+msgid "Allow your customers to split payments into 3 or 4 installments, for orders between %s€ and %s€"
+msgstr "Permetti ai tuoi clienti di pagare in 3 o 4 rate, per gli acquisti da %s€ a %s€ euro"
+
+#: src/Gateway/PayplugGateway.php:376
+#, php-format
+msgid "support.payplug.com//hc//en-gb"
+msgstr "support.payplug.com/hc/it"
+
+#: src/Gateway/PayplugGateway.php:368
+msgid "Allow your customers to save their credit card information for later purchases."
+msgstr "Permetti ai tuoi clienti di salvare i dati delle carte di credito per semplificare gli acquisti futuri."
+
+#: src/Admin/Metabox.php:86
+msgid "Amount"
+msgstr "Importo"
+
+#: src/Admin/WoocommerceActions.php:74 src/Admin/Ajax.php:61
+#: src/Admin/Ajax.php:70
+msgid "An error occured with PayPlug gateway. Please make sure PayPlug settings are correct."
+msgstr "Si è verificato un errore sul gateway Payplug. Assicurati che Payplug sia stato configurato correttamente."
+
+#: src/Admin/WoocommerceActions.php:89
+msgid "An error occurred while collecting payment information from PayPlug."
+msgstr "Si è verificato un errore nel processo di recupero dei dati per il pagamento."
+
+#: src/Admin/WoocommerceActions.php:109
+msgid "An error occurred while collecting refund information from PayPlug."
+msgstr "Si è verificato un errore nel processo di recupero dei dati per il rimborso."
+
+#: src/Gateway/PayplugGatewayOney4x.php:43
+#: src/Gateway/PayplugGatewayOney3x.php:75 src/Front/PayplugOneyDetail.php:133
+#: src/Front/PayplugOneyDetail.php:143
+msgid "Bring"
+msgstr "1^ rata contestuale all’acquisto"
+
+#: src/Front/PayplugOneyDetail.php:128
+msgid "BY CREDIT CARD"
+msgstr "CON CARTA DI CREDITO DEBITO E POSTEPAY"
+
+#: src/Admin/Metabox.php:94
+msgid "Card mask"
+msgstr "Le ultime quattro cifre della carta"
+
+#: src/Gateway/PayplugGateway.php:296 src/Gateway/PayplugGateway.php:614
+msgid "Connection"
+msgstr "Connessione"
+
+#: src/Gateway/PayplugGateway.php:164 src/Admin/Metabox.php:91
+msgid "Credit card"
+msgstr "Carta di credito"
+
+#: src/Gateway/PayplugGateway.php:340
+msgid "Customers will be redirected to a PayPlug payment page to finalize the transaction, or payments will be performed in an embeddable payment form on your website."
+msgstr "I clienti verranno rediretti verso una pagina di pagamento Payplug per finalizzare la transazione ; I pagamenti sono effettuati in una pagina di pagamento integrabile nel tuo sito."
+
+#: src/Gateway/PayplugGateway.php:349
+msgid "Debug"
+msgstr "Debug"
+
+#: src/Gateway/PayplugGateway.php:351
+msgid "Debug mode saves additional information on your server for each operation done via the PayPlug plugin (Developer setting)."
+msgstr "La modalità debug permette di salvare delle informazioni complementari sul tuo server ad ogni operazione effettuata via il modulo Payplug (opzione per i programmatori)."
+
+#: src/Gateway/PayplugGateway.php:285
+#, fuzzy
+msgctxt "Default gateway title"
+msgid "Credit card checkout"
+msgstr "Paga con carta di credito o debito"
+
+#: src/Gateway/PayplugGateway.php:289
+msgid "Description"
+msgstr "Descrizione"
+
+#: src/Gateway/PayplugGateway.php:619 src/Gateway/PayplugGateway.php:623
+msgid "Email"
+msgstr "Email"
+
+#: src/PayplugWoocommerceRequest.php:62
+msgid "Empty cart"
+msgstr "Il tuo carrello è vuoto"
+
+#: src/Gateway/PayplugGateway.php:277
+msgid "Enable PayPlug"
+msgstr "Attivare Payplug"
+
+#: src/Gateway/PayplugGateway.php:98
+msgid "Enable PayPlug for your customers."
+msgstr "Permetti ai tuoi clienti di acquistare con Payplug."
+
+#: src/Gateway/PayplugGatewayOney3x.php:36
+msgid "Enable PayPlug Oney 3x for your customers."
+msgstr "Attiva Payplug Oney 3x per i tuoi clienti."
+
+#: src/Gateway/PayplugGatewayOney4x.php:23
+msgid "Enable PayPlug Oney 4x for your customers."
+msgstr "Attiva Payplug Oney 4x per i tuoi clienti."
+
+#: src/Gateway/PayplugGateway.php:275
+msgid "Enable/Disable"
+msgstr "Attivare / Disattivare"
+
+#: src/Admin/Metabox.php:100
+msgid "Expiration date"
+msgstr "Data di scadenza"
+
+#: src/Gateway/PayplugGateway.php:97
+msgctxt "Gateway method title"
+msgid "PayPlug"
+msgstr "Payplug"
+
+#: src/Gateway/PayplugGatewayOney3x.php:35
+#, fuzzy
+msgctxt "Gateway method title"
+msgid "PayPlug Oney 3x"
+msgstr "Payplug Oney 3x"
+
+#: src/Gateway/PayplugGatewayOney4x.php:22
+#, fuzzy
+msgctxt "Gateway method title"
+msgid "PayPlug Oney 4x"
+msgstr "Payplug Oney 4x"
+
+#: src/Gateway/PayplugGateway.php:1338
+msgid "Go to your PayPlug Portal"
+msgstr "Accedi al tuo conto Payplug"
+
+#. Author URI of the plugin
+msgid "https://www.payplug.com/"
+msgstr "https://www.payplug.com/"
+
+#. URI of the plugin
+msgid "https://www.payplug.com/modules/woocommerce"
+msgstr "https://www.payplug.com/it/modules/woocommerce"
+
+#: src/Gateway/PayplugGateway.php:329
+msgid "In TEST mode, all payments will be simulations and will not generate real transactions."
+msgstr "La modalità TEST permette di  effettuare solo delle simulazioni di pagamento e non genera reali transazioni."
+
+#: src/Gateway/PayplugGateway.php:345
+msgid "Integrated"
+msgstr "Integrata"
+
+#: src/Gateway/PayplugGateway.php:1127 src/Gateway/PayplugGateway.php:1132
+msgid "Invalid credentials."
+msgstr "Le tue credenziali non sono valide."
+
+#: src/Admin/Ajax.php:50
+msgid "Invalid nonce."
+msgstr ""
+
+#: src/Gateway/PayplugGateway.php:919
+msgid "Invalid payment method."
+msgstr "Il metodo di pagamento non è valido."
+
+#: src/Admin/Ajax.php:41
+msgid "Invalid request."
+msgstr ""
+
+#: src/Admin/Metabox.php:104
+msgid "Live"
+msgstr "Live"
+
+#: src/Gateway/PayplugGateway.php:642 src/Admin/Notices.php:95
+msgid "Login"
+msgstr "Connettiti"
+
+#: src/Gateway/PayplugGateway.php:1334
+msgid "Logout"
+msgstr "Logout"
+
+#: src/Gateway/PayplugGatewayOney3x.php:184
+msgid "Mobile phone number fullfilled is invalid. Please retry."
+msgstr ""
+
+#: src/Gateway/PayplugGateway.php:654
+msgctxt "modal"
+msgid "Attention, pour utiliser la méthode de paiement Oney en mode LIVE merci de nous contacter à"
+msgstr ""
+
+#: src/Gateway/PayplugGateway.php:560
+msgctxt "modal"
+msgid "Cancel"
+msgstr ""
+
+#: src/Gateway/PayplugGateway.php:583
+msgctxt "modal"
+msgid "Enter your PayPlug account password"
+msgstr ""
+
+#: src/Gateway/PayplugGateway.php:579 src/Gateway/PayplugGateway.php:652
+msgctxt "modal"
+msgid "Mode LIVE"
+msgstr ""
+
+#: src/Gateway/PayplugGateway.php:559 src/Gateway/PayplugGateway.php:573
+msgctxt "modal"
+msgid "Ok"
+msgstr ""
+
+#: src/Gateway/PayplugGateway.php:582
+msgctxt "modal"
+msgid "Please enter your PayPlug account password"
+msgstr ""
+
+#: src/Gateway/PayplugGateway.php:561
+msgctxt "modal"
+msgid "Something went wrong. Please refresh the page and retry."
+msgstr ""
+
+#: src/Gateway/PayplugGateway.php:320 src/Admin/Metabox.php:103
+msgid "Mode"
+msgstr "Modalità"
+
+#: src/Front/PayplugOneyDetail.php:134 src/Front/PayplugOneyDetail.php:144
+msgid "monthly payment of"
+msgstr "mensilitàs"
+
+msgid "IT monthly payment of"
+msgstr "Più %s rate da"
+
+#: src/Admin/Metabox.php:98
+msgid "No"
+msgstr "No"
+
+#: src/Admin/Metabox.php:73
+msgid "No metadata available for the current order."
+msgstr "Non ci sono informazioni disponibili per questo ordine."
+
+#: src/Gateway/PayplugGateway.php:998
+msgid "No PayPlug transaction was found for this order. The refund could not be processed."
+msgstr "Nessuna transazione Payplug è stata trovata per questo ordine pertanto non è possibile effettuare alcun rimborso."
+
+#: src/Admin/WoocommerceActions.php:63
+msgid "No transaction ID was found for this order."
+msgstr "Nessun ID è stato trovato per questa transazione."
+
+#: src/Admin/Metabox.php:83
+msgid "Not Paid"
+msgstr "Non pagato"
+
+#: src/Front/PayplugOneyDetail.php:135 src/Front/PayplugOneyDetail.php:145
+msgid "Of which financing cost"
+msgstr "Di cui una commissione di"
+
+#: src/Front/PayplugOneyDetail.php:115
+#, php-format
+msgid "Offre de financement avec apport obligatoire, réservée aux particuliers et valable pour tout achat de %s€ à %s€. Sous réserve d'acceptation par Oney Bank. Vous disposez d'un délai de 14 jours pour renoncer à votre crédit. Oney Bank - SA au capital de 51 286 585€ - 34 Avenue de Flandre 59170 Croix - 546 380 197 RCS Lille Métropole - n° Orias 07 023 261 %s Correspondance : CS 60 006 - 59895 Lille Cedex - %s"
+msgstr "Offre de financement avec apport obligatoire, réservée aux particuliers et valable pour tout achat de %s€ à %s€. Sous réserve d'acceptation par Oney Bank. Vous disposez d'un délai de 14 jours pour renoncer à votre crédit. Oney Bank - SA au capital de 51 286 585€ - 34 Avenue de Flandre 59170 Croix - 546 380 197 RCS Lille Métropole - n° Orias 07 023 261 %s Correspondance : CS 60 006 - 59895 Lille Cedex - %s"
+
+msgid "Offre de financement sans assurance avec apport obligatoire, réservée aux particuliers et valable pour tout achat de %s€ à %s€. Sous réserve d’acceptation par Oney Bank. Vous disposez d’un délai de 14 jours pour renoncer à votre crédit. Oney Bank - SA au capital de 51286585€ - 34 Avenue de Flandre 59 170 Croix - 546 380 197 RCS Lille Métropole - n° Orias 07023 261 %s .  Correspondance : CS 60 006 - 59895 Lille Cedex - %s"
+msgstr "Offre de financement sans assurance avec apport obligatoire, réservée aux particuliers et valable pour tout achat de %s€ à %s€. Sous réserve d’acceptation par Oney Bank. Vous disposez d’un délai de 14 jours pour renoncer à votre crédit. Oney Bank - SA au capital de 51286585€ - 34 Avenue de Flandre 59 170 Croix - 546 380 197 RCS Lille Métropole - n° Orias 07023 261 %s .  Correspondance : CS 60 006 - 59895 Lille Cedex - %s"
+
+msgid "<a href='https://www.orias.fr' target='_empty' > www.orias.fr </a>"
+msgstr "<a href='https://www.orias.fr' target='_empty' > www.orias.fr </a>"
+
+msgid "<a href='https://www.oney.fr' target='_empty' > www.oney.fr </a>"
+msgstr "<a href='https://www.oney.fr' target='_empty' > www.oney.fr </a>"
+
+#: src/Admin/Notices.php:107
+msgid "Once your PayPlug account has been validated, please log out and log in again from the configuration page in order to activate LIVE mode."
+msgstr "Una volta che il tuo conto Payplug è stato attivato, disconnettiti e connettiti nuovamente per attivare la modalità LIVE."
+
+#: src/Gateway/PayplugGateway.php:365
+msgid "One Click Payment"
+msgstr "Pagamento one click"
+
+#: src/Gateway/PayplugGatewayRequirements.php:118
+msgid "Oney is active on your store."
+msgstr ""
+
+#: src/Gateway/PayplugGateway.php:278
+msgid "Only Euro payments can be processed with PayPlug."
+msgstr "Payplug ti permette di effettuare solo transazioni in euro."
+
+#: src/Admin/Notices.php:92
+msgid "Only one step left to activate the plugin on your site !"
+msgstr "Sei ad un passo dalla configurazione del plugin Payplug sul tuo sito !"
+
+#: src/Gateway/PayplugGateway.php:781
+msgid "Only PREMIUM accounts can enable the One Click option in LIVE mode."
+msgstr "Solo gli account PREMIUM possono utilizzare la funzione One Click in modalità LIVE."
+
+#. %s: minimum required OpenSSL version
+#: src/Gateway/PayplugGatewayRequirements.php:92
+#, php-format
+msgid "OpenSSL is not up to date. Please update to OpenSSL %s or later."
+msgstr "OpenSSL non è aggiornato. Devi aggiornarlo alla versione %s o superiore."
+
+#: src/Gateway/PayplugGatewayRequirements.php:90
+msgid "OpenSSL is up to date."
+msgstr "OpenSSL è stato aggiornato."
+
+#: src/Front/PayplugOneyDetail.php:195
+msgid "OR PAY IN"
+msgstr "O PAGARE IN"
+
+#: src/Admin/Metabox.php:82
+msgid "Paid"
+msgstr "Pagato"
+
+#: src/Admin/Metabox.php:88
+msgid "Paid at"
+msgstr "Pagato a"
+
+#: src/Admin/Metabox.php:81
+msgid "Partially refunded"
+msgstr "Rimborsato parzialmente"
+
+#: src/Gateway/PayplugGateway.php:630 src/Gateway/PayplugGateway.php:634
+msgid "Password"
+msgstr "Password"
+
+#: src/Gateway/PayplugGatewayOney3x.php:37
+msgid "Pay by card in 3x with Oney"
+msgstr "Paga con la carta in 3x con Oney"
+
+#: src/Gateway/PayplugGatewayOney4x.php:24
+msgid "Pay by card in 4x with Oney"
+msgstr "Paga con la carta in 4x con Oney"
+
+#: src/Gateway/PayplugGateway.php:104
+msgid "Pay with another credit card"
+msgstr "Paga con un’altra carta di credito"
+
+#: src/Front/PayplugOneyDetail.php:127
+msgid "PAYMENT"
+msgstr "PAGAMENTO"
+
+#: src/Gateway/PayplugGateway.php:338
+msgid "Payment page"
+msgstr "Pagina di pagamento"
+
+#: src/Gateway/PayplugGatewayOney3x.php:170 src/Gateway/PayplugGateway.php:897
+#: src/Gateway/PayplugGateway.php:900 src/Gateway/PayplugGateway.php:961
+#: src/Gateway/PayplugGateway.php:964
+msgid "Payment processing failed. Please retry."
+msgstr "Il tentativo di pagamento non è andato a buon fine. La invitiamo a provare nuovamente."
+
+#: src/Gateway/PayplugGateway.php:1090
+#, php-format
+msgid "Payments for this amount (%s) are not authorised with this payment gateway."
+msgstr "Trasazioni di questo valore (%s) non sono consentite con questo metodo di pagamento."
+
+#: src/Admin/Notices.php:113
+msgid "Payments in TEST mode will be simulations and will not generate real transactions."
+msgstr "Tutti i pagamenti in modalità TEST sono simulazioni e non generano transazioni reali."
+
+#. Author of the plugin
+msgid "PayPlug"
+msgstr "Payplug"
+
+#: src/Gateway/PayplugResponse.php:75
+#, php-format
+msgid "PayPlug IPN OK | Transaction %s"
+msgstr "Payplug IPN OK | Transaction %s"
+
+#: src/Gateway/PayplugResponse.php:97
+#, php-format
+msgid "PayPlug IPN OK | Transaction %s failed : %s"
+msgstr "Payplug IPN OK | Transaction %s fallita : %s"
+
+#: src/Admin/Notices.php:106
+msgid "PayPlug is in TEST mode"
+msgstr "Payplug è in modalità TEST"
+
+#: src/Admin/Metabox.php:51
+msgid "PayPlug payment details"
+msgstr "Dettagli di pagamento Payplug"
+
+#: src/Admin/Metabox.php:76
+msgid "PayPlug Payment ID"
+msgstr "ID di pagamento Payplug"
+
+#. Name of the plugin
+msgid "PayPlug pour WooCommerce (Officiel)"
+msgstr "Payplug per WooCommerce"
+
+#: src/PayplugWoocommerce.php:91
+msgid "PayPlug requires an active version of WooCommerce"
+msgstr "Payplug per funzionare necessita l'installazione di WooCommerce"
+
+#: src/Gateway/PayplugGateway.php:1121
+msgid "Please fill all login fields"
+msgstr "Ti preghiamo di complementare tutti i campi richiesti"
+
+#: src/Gateway/PayplugGatewayRequirements.php:119
+msgid "Please fill in the GCSs relating to oney."
+msgstr ""
+
+#: src/Gateway/PayplugGateway.php:344
+msgid "Redirect"
+msgstr "Rediretta"
+
+#: src/Gateway/PayplugResponse.php:177 src/Gateway/PayplugGateway.php:1048
+#, php-format
+msgid "Refund %s : Refunded %s"
+msgstr "Rimborso %s : Totale rimborsato %s"
+
+#: src/Gateway/PayplugGatewayOney3x.php:311
+msgid "Refund will be possible 48 hours after the last payment or refund transaction."
+msgstr "Il rimborso sarà possibile 48 ore dopo l'ultima transazione di pagamento o rimborso."
+
+#: src/Admin/Metabox.php:80
+msgid "Refunded"
+msgstr "Rimborsato"
+
+#: src/PayplugWoocommerce.php:138 src/Gateway/PayplugGateway.php:334
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: src/Admin/Ajax.php:99
+msgid "Something went wrong."
+msgstr ""
+
+#: src/Gateway/PayplugGateway.php:373
+msgid "3x 4x Oney payments"
+msgstr "Pagamenti rateali 3x 4x Oney"
+
+#: src/Admin/Metabox.php:78
+msgid "Status"
+msgstr "Stato"
+
+#: src/Gateway/PayplugGateway.php:757
+msgid "Successfully logged in."
+msgstr "Connessione effettuata."
+
+#: src/Gateway/PayplugGateway.php:694
+msgid "Successfully logged out."
+msgstr "Sei disconnesso."
+
+#: src/Front/PayplugOneyDetail.php:136 src/Front/PayplugOneyDetail.php:146
+msgid "TAEG"
+msgstr "TAEG"
+
+#: src/Admin/Metabox.php:104
+msgid "Test"
+msgstr "Test"
+
+#: src/Admin/Notices.php:90
+msgid "Thank you for installing PayPlug as your online payment solution."
+msgstr "Grazie per aver installato Payplug, la soluzione di pagamento online per le carte di credito."
+
+#. Description of the plugin
+msgid "The online payment solution combining simplicity and first-rate support to boost your sales."
+msgstr "La soluzione di pagamento online che con semplicità e assistenza ti aiuta ad aumentare le vendite."
+
+#: src/Gateway/PayplugGateway.php:991
+#, php-format
+msgid "The order %s cannot be refund."
+msgstr ""
+
+#: src/Gateway/PayplugGateway.php:985
+#, php-format
+msgid "The order %s does not exist."
+msgstr "L'ordine %s non esiste."
+
+#: src/Gateway/PayplugGateway.php:291
+msgid "The payment solution description displayed to your customers during checkout"
+msgstr "La descrizione della soluzione di pagamento che vedranno i tuoi clienti durante il checkout"
+
+#: src/Gateway/PayplugGateway.php:284
+msgid "The payment solution title displayed to your customers during checkout"
+msgstr "Il nome della soluzione di pagamento che vedranno i tuoi clienti durante il checkout"
+
+#: src/Gateway/PayplugGatewayOney3x.php:122
+#: src/Gateway/PayplugGatewayOney3x.php:175 src/Front/PayplugOneyDetail.php:209
+msgid "The payment with Oney is unavailable because you have more than %s items in your cart."
+msgstr "Il pagamento tramite Oney non è disponibile perché hai più di %s prodotti nel tuo carrello."
+
+#: src/Gateway/PayplugGatewayRequirements.php:71
+msgid "payplug_PayplugGatewayRequirements_curl_requirement_curlinstalled"
+msgstr "L'estensione PHP cURL è installata e attivata."
+
+#: src/Gateway/PayplugGatewayRequirements.php:72
+msgid "The PHP cURL extension must be installed and activated on your server."
+msgstr "L'estensione PHP cURL deve essere installata e attivata."
+
+#. %s: minimum required PHP version
+#: src/Gateway/PayplugGatewayRequirements.php:82
+#, php-format
+msgid "The PHP version on your server is not supported. Your server must run PHP %s or greater."
+msgstr "La versione di PHP del tuo server non è compatibile con il modulo. Il tuo server deve usare una versione di PHP %s o superiore."
+
+#: src/Gateway/PayplugGatewayRequirements.php:80
+msgid "The PHP version on your server is valid."
+msgstr "La versione PHP del tuo server è compatibile con l'estensione."
+
+#: src/Gateway/PayplugGatewayOney3x.php:116
+#: src/Gateway/PayplugGatewayOney3x.php:150 src/Front/PayplugOneyDetail.php:206
+#, php-format
+msgid "The total amount of your order should be between %s€ and %s€ to pay with Oney."
+msgstr "L'importo totale dell'ordine deve essere compreso tra %s€ e %s€ per pagare tramite Oney"
+
+#: src/Gateway/PayplugGateway.php:1067 src/Gateway/PayplugGateway.php:1071
+msgid "The transaction could not be refunded. Please try again."
+msgstr "Non è possibile effettuare il rimborso. La preghiamo di tentare nuovamente."
+
+#: src/Gateway/PayplugGateway.php:282
+msgid "Title"
+msgstr "Titolo"
+
+#: src/Gateway/PayplugGatewayOney3x.php:131
+msgid "Unavailable for the specified country."
+msgstr "Non disponibile per il paese specificato"
+
+#: src/Admin/WoocommerceActions.php:40
+msgid "Update PayPlug transaction data"
+msgstr "Aggiorna i dati Payplug"
+
+#: src/Admin/Metabox.php:98
+msgid "Yes"
+msgstr "Si"
+
+#: src/Gateway/PayplugGateway.php:133
+msgid "You are in TEST MODE. In test mode you can use the card 4242424242424242 with any valid expiration date and CVC."
+msgstr "Sei in modalità TEST. Puoi testare la nostra soluzione inserendo il numero di carta 4242424242424242, la data di scadenza e il CVV che preferisci."
+
+#: src/Gateway/PayplugGatewayRequirements.php:109
+msgid "You are logged in with your PayPlug account."
+msgstr "Sei connesso al tuo conto Payplug."
+
+#: src/Gateway/PayplugGatewayRequirements.php:110
+msgid "You must be logged in with your PayPlug account."
+msgstr "Devi essere connesso al tuo conto Payplug."
+
+#: src/Gateway/PayplugGateway.php:768 src/Admin/Ajax.php:91
+msgid "Your account does not support LIVE mode at the moment, it must be validated first. If your account has already been validated, please log out and log in again."
+msgstr "Attualmente non è possibile accedere alla modalità LIVE dal tuo conto. Per poter accedere alla modalità LIVE devi prima attivare il tuo conto. Se hai già un account attivo disconnettiti e connettiti nuovamente."
+
+#: src/Admin/Ajax.php:106
+msgid "Your API keys has successfully been updated."
+msgstr ""
+
+#: src/Gateway/PayplugGateway.php:358
+msgid "Your current offer does not allow this option. Try it on TEST mode. More information <a href=\"https://www.payplug.com/pricing\" target=\"_blank\">here.</a>"
+msgstr "La tua offerta non ti permette di usufruire di questa funzione. Puoi provarla in modalità TEST. Per più informazioni <a href=\"https://www.payplug.com/it/tariffe\" target=\"_blank\">clicca</a>"
+
+#: src/Gateway/PayplugGatewayOney3x.php:188
+msgid "Your email address is too long and the + character is not valid, please change it to another address (max 100 characters)."
+msgstr ""
+
+#: src/Gateway/PayplugGatewayRequirements.php:100
+msgid "Your shop currency has been set up with Euro."
+msgstr "L'euro è stato impostatato come valuta di pagamento sul tuo e-commerce."
+
+#: src/Gateway/PayplugGatewayRequirements.php:101
+msgid "Your shop currency must be set up with Euro."
+msgstr "Devi impostare l'euro come valuta di pagamento sul tuo e-commerce."
+
+#: src/Gateway/PayplugGateway.php:624
+msgid "your@email.com"
+msgstr "latua@email.com"
+
+msgid "More informations"
+msgstr "Ulteriori informazioni"
+
+msgid "info"
+msgstr "Ulteriori informazioni"
+
+msgid "support.payplug.com/hc/fr/articles/4408142346002"
+msgstr "support.payplug.com/hc/fr/articles/4408142346002"
+
+msgid "Oney with fees"
+msgstr "Oney con spese"
+
+msgid "The fees are split between you and your customers"
+msgstr "Le spese sono ripartite tra te e i tuoi clienti"
+
+msgid "Oney without fees"
+msgstr "Oney senza spese"
+
+msgid "You pay the fees"
+msgstr "Le spese sono a tuo carico"
+
+msgid "Pay by credit card in 3x installments without fees with Oney"
+msgstr "Paga in 3x rate senza spese con carta di credito grazie a Oney"
+
+msgid "Pay by credit card in 4x installments without fees with Oney"
+msgstr "Paga in 4x rate senza spese con carta di credito grazie a Oney"
+
+msgid "WITHOUT FEES"
+msgstr "SENZA SPESE"
+
+msgid "I would like to offer guaranteed payment in installments for amounts between %s€ and %s€."
+msgstr "Desidero proporre il pagamento a rate garantito per importi compresi tra %s€ e %s€."
+
+msgid "The amount must be between %s€ and %s€."
+msgstr "L’importo deve essere compreso tra %s€ e %s€."
+
+msgid "Please note that the minimum amount entered is greater than the maximum amount entered."
+msgstr "Attenzione, l’importo minimo inserito è superiore all’importo massimo inserito."
+
+msgid "payplug_oneyIT_paywith"
+msgstr "PAGHI IN"
+
+msgid "payplug_oneyIT_popup-title"
+msgstr "PAGHI IN 3 OPPURE 4 RATE"
+
+msgid "payplug_oneyIT_popup-withoutfees-title"
+msgstr "NESSUNA COMMISSIONE"
+
+msgid "payplug_oneyIT_popup-footer"
+msgstr " 3x4x Oney è una dilazione di pagamento che non ricade nell’ambito di applicazione del credito ai consumatori di cui al Titolo VI, Capo II TUB, offerta da Oney Bank SA., capitale € 51.286.585 - 34 Avenue de Flandre 59170 Croix - RCS Lille, Metropole - 546 380 197 - n° Orias 07 023 261, che opera in Italia in regime di libera prestazione di servizi. L’utilizzo di 3x4xOney è riservato alle persone fisiche maggiorenni, per importi finanziabili compresi tra un minimo di €%s e un massimo di €%s con rimborsi rateali fino ad un massimo di 90 giorni ed è soggetto alla preventiva approvazione di Oney Bank SA. Oney Bank SA. prevede l’applicazione di una commissione fissa per l’utilizzo di 3x4xOney. Il cliente ha 14 giorni di tempo dalla data di conclusione di ciascun finanziamento per rinunciarvi e esercitare il diritto di recesso, senza spese e costi. Documenti informativi disponibili su %s %s"
+
+msgid "payplug_oneyIT_popup-footer_pdf"
+msgstr "<br><b><a href='https://www.payplug.com/hubfs/ONEY/payplug-italy.pdf' target='_empty' > Scopri di più </a></b>"
+
+msgid "payplug_oneyIT-without-fees_popup-footer_pdf"
+msgstr "<br><b><a href='https://www.payplug.com/hubfs/ONEY/payplug-italy-no-fees.pdf' target='_empty' > Scopri di più </a></b>"
+
+msgid "payplug_oneyIT_popup-url"
+msgstr "<a href='https://www.oney.it' target='_empty' > www.oney.it </a>"
+
+msgid "payplug_bancontact_title"
+msgstr "Paga con Bancontact"
+
+msgid "payplug_bancontact_description"
+msgstr "Attiva i pagamenti Bancontact."
+
+msgid "payplug_bancontact_activate_title"
+msgstr "Attiva i pagamenti Bancontact"
+
+msgid "payplug_bancontact_activate_label"
+msgstr "Attiva i pagamenti Bancontact"
+
+msgid "payplug_bancontact_activation_description"
+msgstr ""
+
+msgid "payplug_bancontact_activation_request"
+msgstr "Richiedo Bancontact"
+
+msgid "payplug_bancontact_activation_url"
+msgstr "support.payplug.com/hc/it/requests/new"
+
+msgid "payplug_bancontact_testmode_description"
+msgstr "Non disponibile in modalità Test. <a href='https://support.payplug.com/hc/en-gb/requests/new' target='_blank' >Richiedi Bancontact</a> e attiva la modalità LIVE."
+
+msgid "payplug_bancontact_livemode_description_disabled"
+msgstr "Non puoi ancora accedere a questa funzionalità."
+
+msgid "oney_installments_pop_up"
+msgstr "Pop-up con le rate Oney"
+
+msgid "display_the_oney_installments_pop_up_on_the_product_page"
+msgstr "Visualizza il calendario di pagamento nella pagina del prodotto"
+
+msgid "payplug_apple_pay_activate_title"
+msgstr "Pagamenti Apple Pay"
+
+msgid "payplug_unavailable_testmode_description"
+msgstr "Non disponibile in modalità Test"
+
+msgid "payplug_applepay_unavailable_testmode_description"
+msgstr "Apple Pay non è disponibile in modalità TEST. Per attivarlo, è necessario mettere il modulo Payplug in modalità LIVE."
+
+msgid "payplug_bancontact_unavailable_testmode_description"
+msgstr "Bancontact non è disponibile in modalità TEST. Per attivarlo, è necessario mettere il modulo Payplug in modalità LIVE."
+
+msgid "payplug_amex_unavailable_testmode_description"
+msgstr "American Express non è disponibile in modalità TEST. Per attivarlo, è necessario mettere il modulo Payplug in modalità LIVE."
+
+msgid "payplug_apple_pay_livemode_description"
+msgstr "Visualizza il pulsante di pagamenti Apple Pay sul tuo negozio, sulla pagina di pagamento. Il pulsante sarà visibile solo da un browser Safari."
+
+msgid "payplug_apple_pay_title"
+msgstr "Paga con Apple Pay"
+
+msgid "payplug_apple_pay_unauthorized_error"
+msgstr "Non puoi ancora accedere a questa funzionalità. Per attivare Apple Pay, contatta <a href='mailto:support@payplug.com'>support@payplug.com</a>"
+
+msgid "payplug_section_logged_title"
+msgstr "Generale"
+
+msgid "payplug_section_logged_description"
+msgstr "Impostazioni generali del modulo"
+
+msgid "payplug_section_logged_logout"
+msgstr "Disconnetti"
+
+msgid "payplug_section_logged_mode"
+msgstr "Ambiente"
+
+msgid "payplug_section_logged_test_description"
+msgstr "Pagamenti in modalità TEST, sono simulazioni e non generano transazioni reali."
+
+msgid "payplug_section_logged_live_description"
+msgstr "In modalità LIVE, i pagamenti generano transazioni reali."
+
+msgid "payplug_section_logged_link_access_portal"
+msgstr "Accesso al mio portale Payplug"
+
+msgid "payplug_section_header_title"
+msgstr "La soluzione di pagamento che aumenta le tue vendite."
+
+msgid "payplug_section_header_live_description"
+msgstr "Payplug è la soluzione di pagamento francese dedicata alle PMI. Fai decollare la tua performance grazie ai nostri strumenti orientati alla conversione, 100% chiavi in mano."
+
+msgid "payplug_section_header_test_description"
+msgstr "Payplug è la soluzione di pagamento francese dedicata alle PMI. Fai decollare la tua performance grazie ai nostri strumenti orientati alla conversione, 100% chiavi in mano."
+
+msgid "payplug_section_header_enable_label"
+msgstr "Modulo attivo"
+
+msgid "payplug_section_header_disable_label"
+msgstr "Modulo inattivo"
+
+msgid "payplug_section_payment_methods_title"
+msgstr "Metodi di pagamento"
+
+msgid "payplug_section_payment_methods_description"
+msgstr "Scegli i metodi di pagamento che desideri offrire ai tuoi clienti."
+
+msgid "payplug_section_standard_payment_title"
+msgstr "Pagamento con carta"
+
+msgid "payplug_section_standard_payment_description"
+msgstr "Proponi il pagamento con carta ai tuoi clienti. Payplug ti permette di effettuare solo transazioni in euro."
+
+msgid "payplug_section_standard_payment_option_title"
+msgstr "Presentazione della pagina di pagamento"
+
+msgid "payplug_section_standard_payment_redirected_description"
+msgstr "I tuoi clienti saranno reindirizzati a una pagina di pagamento personalizzabile ospitata da Payplug."
+
+msgid "payplug_section_standard_payment_popup_description"
+msgstr "I tuoi clienti vedranno comparire un pop-up di pagamento personalizzabile nella pagina di check-out del tuo negozio."
+
+msgid "payplug_section_standard_payment_option_popup_label"
+msgstr "Pop-up"
+
+msgid "payplug_section_standard_payment_option_redirected_label"
+msgstr "Rediretto"
+
+msgid "payplug_section_one_click_option_title"
+msgstr "Attiva il pagamento in un click"
+
+msgid "payplug_section_one_click_option_description"
+msgstr "I tuoi clienti potranno salvare la loro carta ed effettuare il loro prossimo acquisto in un click."
+
+msgid "payplug_section_applepay_payment_title"
+msgstr "Pagamento Apple Pay"
+
+msgid "payplug_section_applepay_payment_description"
+msgstr "Visualizza il pulsante di pagamento Apple Pay sul tuo negozio."
+
+msgid "payplug_section_bancontact_payment_title"
+msgstr "Pagamento Bancontact"
+
+msgid "payplug_know_more_label"
+msgstr " Per saperne di più."
+
+msgid "payplug_error_wrong_credentials"
+msgstr "L'indirizzo mail e/o la password sono errati."
+
+msgid "payplug_section_login_forgot_password"
+msgstr "Hai dimenticato la password?"
+
+msgid "payplug_section_paylater_title"
+msgstr "PayLater"
+
+msgid "payplug_section_paylater_description"
+msgstr "Seleziona le impostazioni del PayLater per visualizzare il 3x 4x Oney sul tuo negozio."
+
+msgid "payplug_section_oney_title"
+msgstr "Pagamenti rateali 3x 4x Oney"
+
+msgid "payplug_section_paylater_description_oney"
+msgstr "I tuoi clienti possono scegliere di pagare gli ordini in 3 o 4 rate. Scegli qui sotto se vuoi prendere a tuo carico tutti i costi (o meno)."
+
+msgid "payplug_label_with_fees"
+msgstr "Con spese"
+
+msgid "payplug_text_with_fees"
+msgstr "Le spese sono ripartite tra te e i tuoi clienti."
+
+msgid "payplug_label_without_fees"
+msgstr "Senza spese"
+
+msgid "payplug_text_without_fees"
+msgstr "Le spese sono a tuo carico."
+
+msgid "payplug_thresholds_oney_title"
+msgstr "Personalizza la tua offerta di pagamento rateale"
+
+msgid "payplug_thresholds_oney_description"
+msgstr "Proporre pagamenti rateali garantiti per importi compresi tra"
+
+msgid "and"
+msgstr "e"
+
+msgid "payplug_section_bancontact_payment_description"
+msgstr "Permetti ai tuoi clienti di pagare con le carte Bancontact."
+
+msgid "payplug_section_american_express_payment_title"
+msgstr "Pagamento AmEx"
+
+msgid "payplug_section_american_express_payment_description"
+msgstr "Permetti ai tuoi clienti di pagare con la loro carta American Express."
+
+msgid "payplug_bancontact_access_error"
+msgstr "Non puoi ancora accedere a questa funzionalità. Per attivare Bancontact, compila <a href='https://support.payplug.com/hc/it/requests/new?ticket_form_id=4583813991452' target='_blank'>questo modulo</a>"
+
+msgid "payplug_amex_access_error"
+msgstr "Non puoi ancora accedere a questa funzionalità. Per attivare American Express, compila <a href='https://support.payplug.com/hc/it/requests/new?ticket_form_id=6331992459420' target='_blank'>questo modulo</a>"
+
+msgid "payplug_applepay_access_error"
+msgstr "Non puoi ancora accedere a questa funzionalità. Per attivare Apple Pay, compila <a href='https://support.payplug.com/hc/it/requests/new?ticket_form_id=5965121371548' target='_blank'>questo modulo</a>"
+
+msgid "payplug_enable_feature"
+msgstr "Attivare una funzionalità"
+
+msgid "payplug_ok"
+msgstr "OK"
+
+msgid "payplug_section_login_description"
+msgstr "Connettiti al tuo account Payplug."
+
+msgid "payplug_section_login_email_label"
+msgstr "Indirizzo E-mail"
+
+msgid "payplug_section_login_password_label"
+msgstr "Password"
+
+msgid "payplug_section_login_connect"
+msgstr "Accedi al tuo conto"
+
+msgid "payplug_section_subscribe_description"
+msgstr "Iscrizione"
+
+msgid "payplug_section_subscribe_content_description"
+msgstr "Crea il tuo account per poter utilizzare il modulo."
+
+msgid "payplug_section_subscribe_link_create_account"
+msgstr "Crea un account Payplug"
+
+msgid "payplug_section_subscribe_already_have_account"
+msgstr "Ho già un account Payplug"
+
+msgid "payplug_section_login_not_registered"
+msgstr "Non hai ancora un account Payplug?"
+
+msgid "payplug_learn_more"
+msgstr "Per saperne di più"
+
+msgid "payplug_mode_learn_more_url"
+msgstr "https://support.payplug.com/hc/it/articles/360021142492"
+
+msgid "payplug_section_status_title"
+msgstr "Stato"
+
+msgid "payplug_section_status_description"
+msgstr "Controlla il tuo ambiente per garantire il buon funzionamento del modulo."
+
+msgid "payplug_section_status_errorMessage"
+msgstr "I requisiti richiesti per l'utilizzo del modulo Payplug non sono soddisfatti. Dopo aver risolto questo inconveniente, aggiorna la pagina o clicca su verifica."
+
+msgid "payplug_section_status_check"
+msgstr "Verifica"
+
+msgid "payplug_section_status_curl"
+msgstr "L'estensione PHP cURL deve essere abilitata sul tuo server."
+
+msgid "payplug_section_status_php"
+msgstr "La versione PHP del tuo server è compatibile con l'estensione."
+
+msgid "payplug_section_status_ssl"
+msgstr "OpenSSL è stato aggiornato."
+
+msgid "payplug_section_status_account"
+msgstr "Devi connetterti al tuo conto Payplug."
+
+msgid "payplug_oney_product_page_description"
+msgstr "I tuoi clienti potranno visualizzare i dettagli dei loro pagamenti in 3 o 4 rate."
+
+msgid "payplug_oney_error_title"
+msgstr "Attivare una funzionalità"
+
+msgid "payplug_oney_error_description"
+msgstr "Non puoi ancora accedere a questa funzionalità. Per attivare Oney, "
+
+msgid "payplug_oney_error_link"
+msgstr "clicca qui"
+
+msgid "payplug_applepay_more_url"
+msgstr "https://support.payplug.com/hc/it/articles/5149384347292-Incassare-pagamenti-Apple-Pay-con-PayPlug"
+
+msgid "payplug_bancontact_more_url"
+msgstr "https://support.payplug.com/hc/it/articles/4408157435794-Incassare-dei-pagamenti-tramite-Bancontact-con-PayPlug"
+
+msgid "payplug_amex_more_url"
+msgstr "https://support.payplug.com/hc/it/articles/5701208563996-Incassare-pagamenti-American-Express-con-PayPlug"
+
+msgid "payplug_section_status_debug_label"
+msgstr "Attivare la modalità Debug"
+
+msgid "payplug_section_status_debug_description"
+msgstr "La modalità debug permette di salvare delle informazioni complementari sul tuo server ad ogni operazione effettuata via il modulo Payplug (opzione per i programmatori)."
+
+msgid "payplug_standard_payment_title_title"
+msgstr "Titolo"
+
+msgid "payplug_standard_payment_title_description"
+msgstr "Il nome della soluzione di pagamento che vedranno i tuoi clienti durante il checkout."
+
+msgid "payplug_standard_payment_title_placeholder"
+msgstr "Pagamento con carta di credito"
+
+msgid "payplug_standard_payment_description_title"
+msgstr "Descrizione"
+
+msgid "payplug_standard_payment_description_description"
+msgstr "La descrizione della soluzione di pagamento che vedranno i tuoi clienti durante il checkout."
+
+msgid "payplug_standard_payment_description_placeholder"
+msgstr "Descrizione"
+
+msgid "payplug_section_status_currency"
+msgstr "L'euro è stato impostato come valuta di pagamento sul tuo e-commerce."
+
+msgid "payplug_save_success_message"
+msgstr "La tua configurazione è stata salvata."
+
+msgid "payplug_embeded_option_url"
+msgstr "https://support.payplug.com/hc/it/articles/4409698334098"
+
+msgid "payplug_cancel"
+msgstr "Annulla"
+
+msgid "payplug_live_mode"
+msgstr "Modalità LIVE"
+
+msgid "payplug_section_logged_modal_description"
+msgstr "Si prega di inserire la password del tuo conto Payplug."
+
+msgid "payplug_inactive_account_warning_title"
+msgstr "Congratulazioni, il tuo account è già connesso!"
+
+msgid "payplug_inactive_account_warning_description1"
+msgstr "Mentre il tuo dossier è in fase di elaborazione, puoi utilizzare la"
+
+msgid "payplug_inactive_account_warning_description2"
+msgstr " <a href='https://support.payplug.com/hc/it/articles/360021142492' target='_blank'>modalità TEST</a> "
+
+msgid "payplug_inactive_account_warning_description3"
+msgstr "per scoprire il nostro modulo. <span id='inactiveModalClick'>Clicca qui</span> per passare alla modalità LIVE e iniziare ad incassare i pagamenti dei tuoi clienti."
+
+msgid "payplug_inactive_account_error_title"
+msgstr "Il tuo dossier è in fase di elaborazione."
+
+msgid "payplug_inactive_account_error_description"
+msgstr "Per ricevere ulteriori informazioni, contattaci al seguente indirizzo e-mail: supporto@payplug.com"
+
+msgid "payplug_section_help_description1"
+msgstr "Un Problema? Una Domanda?"
+
+msgid "payplug_section_help_description2"
+msgstr "Rendez-vous sul nostro "
+
+msgid "payplug_section_help_link_help_text"
+msgstr "centro assistenza."
+
+msgid "payplug_section_help_link_help_url"
+msgstr "https://support.payplug.com/hc/it/requests/new"
+
+msgid "payplug_section_status_check_success"
+msgstr "La verifica è stata effettuata con successo."
+
+msgid "payplug_amex_title"
+msgstr "Paga con Amex"
+
+msgid "payplug_save_changes_text"
+msgstr "Aggiorna le impostazioni"
+
+msgid "payplug_thresholds_error_msg"
+msgstr "L'importo deve essere compreso tra 100€ e 3000€."
+
+msgid "payplug_section_standard_payment_option_integrated_label"
+msgstr "Integrata"
+
+msgid "payplug_section_standard_payment_integrated_description"
+msgstr "I tuoi clienti vedranno comparire il modulo di pagamento direttamente nella pagina di check-out del tuo negozio."
+
+msgid "payplug_integrated_payment_cardholder"
+msgstr "Titolare della carta"
+
+msgid "payplug_integrated_payment_your_card"
+msgstr "LA TUA CARTA"
+
+msgid "payplug_integrated_payment_card_number"
+msgstr "Numero di carta"
+
+msgid "payplug_integrated_payment_expiration_date"
+msgstr "MM/AA"
+
+msgid "payplug_integrated_payment_cvv"
+msgstr "123"
+
+msgid "payplug_integrated_payment_oneClick"
+msgstr "Salva i dati della mia carta di credito"
+
+msgid "payplug_integrated_payment_transaction_secure"
+msgstr "Transazione protetta da"
+
+msgid "payplug_integrated_payment_privacy_policy"
+msgstr "Politica di confidenzialità"
+
+msgid "payplug_integrated_payment_privacy_policy_url"
+msgstr "https://www.payplug.com/it/politica-di-confidenzialita"
+
+msgid "payplug_integrated_payment_empty"
+msgstr "Campo obbligatorio."
+
+msgid "payplug_integrated_payment_cardHolder_error"
+msgstr "Nome e/o Cognome non valido(i)."
+
+msgid "payplug_integrated_payment_pan_error"
+msgstr "Numero di carta non valido."
+
+msgid "payplug_integrated_payment_cvv_error"
+msgstr "CVV non valido."
+
+msgid "payplug_integrated_payment_exp_error"
+msgstr "Data di scadenza non valida."
+
+msgid "payplug_integrated_payment_error"
+msgstr "La transazione non è stata conclusa e non è stato effettuato alcun addebito sulla tua carta."
+
+msgid "payplug_thresholds_error_maxtext_msg"
+msgstr "Attenzione, l'importo massimo inserito è inferiore all'importo minimo inserito."
+
+msgid "payplug_thresholds_error_mintext_msg"
+msgstr "Attenzione, l'importo minimo inserito è superiore all'importo massimo inserito."
+
+msgid "pay_with_satispay"
+msgstr "Paga con Satispay"
+
+msgid "pay_with_mybank"
+msgstr "Paga con MyBank"
+
+msgid "pay_with_sofort"
+msgstr "Paga con SOFORT"
+
+msgid "pay_with_ideal"
+msgstr "Paga con iDEAL"
+
+msgid "satispay_threshold"
+msgstr "L'importo totale dell'ordine deve essere compreso tra %s€ and %s€ per pagare tramite Satispay."
+
+msgid "mybank_threshold"
+msgstr "L'importo totale dell'ordine deve essere compreso tra %s€ and %s€ per pagare tramite MyBank."
+
+msgid "sofort_threshold"
+msgstr "L'importo totale dell'ordine deve essere compreso tra %s€ and %s€ per pagare tramite SOFORT."
+
+msgid "ideal_threshold"
+msgstr "L'importo totale dell'ordine deve essere compreso tra %s€ and %s€ per pagare tramite iDEAL."
+
+msgid "payplug_satispay_activate"
+msgstr "Pagamento Satispay"
+
+msgid "payplug_satispay_more_url"
+msgstr "https://support.payplug.com/hc/it/articles/8089121532700-Satispay-chez-Payplug"
+
+msgid "payplug_mybank_activate"
+msgstr "Pagamento MyBank"
+
+msgid "payplug_mybank_more_url"
+msgstr "https://support.payplug.com/hc/it/articles/8089123857564-MyBank-chez-Payplug"
+
+msgid "payplug_sofort_activate"
+msgstr "Pagamento SOFORT"
+
+msgid "payplug_sofort_more_url"
+msgstr "https://support.payplug.com/hc/it/articles/8089091941660-Sofort-chez-Payplug"
+
+msgid "payplug_ideal_activate"
+msgstr "Pagamento iDEAL"
+
+msgid "payplug_ideal_more_url"
+msgstr "https://support.payplug.com/hc/it/articles/8089119071132"
+
+msgid "payplug_satispay_unavailable_testmode_description"
+msgstr "Satispay non è disponibile in modalità TEST. Per attivarlo, è necessario mettere il modulo Payplug in modalità LIVE."
+
+msgid "payplug_mybank_unavailable_testmode_description"
+msgstr "Mybank non è disponibile in modalità TEST. Per attivarlo, è necessario mettere il modulo Payplug in modalità LIVE."
+
+msgid "payplug_sofort_unavailable_testmode_description"
+msgstr "SOFORT non è disponibile in modalità TEST. Per attivarlo, è necessario mettere il modulo Payplug in modalità LIVE."
+
+msgid "payplug_ideal_unavailable_testmode_description"
+msgstr "iDeal non è disponibile in modalità TEST. Per attivarlo, è necessario mettere il modulo Payplug in modalità LIVE."
+
+msgid "payplug_section_satispay_payment_description"
+msgstr "Permetti ai tuoi clienti di pagare con Satispay."
+
+msgid "payplug_section_mybank_payment_description"
+msgstr "Permetti ai tuoi clienti di pagare con Mybank."
+
+msgid "payplug_section_sofort_payment_description"
+msgstr "Permetti ai tuoi clienti di pagare con SOFORT."
+
+msgid "payplug_section_ideal_payment_description"
+msgstr "Permetti ai tuoi clienti di pagare con iDeal."
+
+msgid "payplug_satispay_access_error"
+msgstr "Non puoi ancora accedere a questa funzionalità. Per attivare Satispay, compila <a href='https://support.payplug.com/hc/it/requests/new?ticket_form_id=8248599064860' target='_blank'>questo modulo</a>"
+
+msgid "payplug_mybank_access_error"
+msgstr "Non puoi ancora accedere a questa funzionalità. Per attivare MyBank, compila <a href='https://support.payplug.com/hc/it/requests/new?ticket_form_id=8248631711516' target='_blank'>questo modulo</a>"
+
+msgid "payplug_sofort_access_error"
+msgstr "Non puoi ancora accedere a questa funzionalità. Per attivare SOFORT, compila <a href='https://support.payplug.com/hc/it/requests/new?ticket_form_id=8248655934108' target='_blank'>questo modulo</a>"
+
+msgid "payplug_ideal_access_error"
+msgstr "Non puoi ancora accedere a questa funzionalità. Per attivare iDEAL, compila <a href='https://support.payplug.com/hc/it/requests/new?ticket_form_id=8248663314844' target='_blank'>questo modulo</a>"
+
+msgid "payplug_refund_disabled_error"
+msgstr ""
+"Il rimborso automatico non è possibile dal tuo back-office.\n"
+"Contatta supporto@payplug.com"
+
+msgid "payplug_integrated_access_error"
+msgstr "Non puoi ancora accedere a questa funzionalità. Per attivare Integrated Payments, compila <a href='https://support.payplug.com/hc/it/requests/new?ticket_form_id=5965121371548' target='_blank'>questo modulo</a>"
+
+msgid "payplug_section_standard_ip_warning"
+msgstr "La visualizzazione del pagamento integrato è compatibile solo con una pagina di pagamento standard che soddisfi le linee guida di WooCommerce. Alcune personalizzazioni del checkout non consentiranno il funzionamento della funzione (modifica del pulsante \"Effettua ordine\", ecc.)."
+
+msgid "payment_method"
+msgstr "Metodo di pagamento"
+
+msgid "payplug_payment_gateways_country_permissions"
+msgstr "%s è disponibile solo per i clienti con indirizzo di fatturazione in : "
+
+msgid "oney_financing_cost"
+msgstr "Di cui una commissione :"
+
+msgid "oney_total"
+msgstr "Totale da rimborsare :"
+
+msgid "applepay_display_choice_title"
+msgstr "Scegli su quale(i) pagina(e) proporre il pagamento Apple Pay :"
+
+msgid "applepay_display_checkout"
+msgstr "Visualizza il pulsante nella pagina di pagamento"
+
+msgid "applepay_display_cart"
+msgstr "Visualizza il pulsante nella pagina del carrello"
+
+msgid "applepay_display_product"
+msgstr "Visualizza il pulsante sulla pagina del prodotto"
+
+msgid "applepay_active_carriers_title"
+msgstr "Metodi di spedizione attivi sul tuo negozio"
+
+msgid "applepay_active_carriers_alert"
+msgstr "Se nessun metodo di spedizione è selezionato, il tasto Apple Pay non verrà visualizzato"
+
+msgid "applepay_active_carriers_description"
+msgstr "Con Apple Pay, le uniche spedizioni possibili sono quelle verso l'indirizzo indicato nel wallet dei clienti (indirizzo di casa, lavoro, ecc...)."
+
+msgid "applepay_active_carriers_description_bold"
+msgstr "Le spedizioni nei punti di ritiro non sono disponibili e, "
+
+msgid "applepay_active_carriers_description_warning"
+msgstr "pertanto, non verranno proposte ai tuoi clienti (ex: ritiro in negozio, ecc...)."
+
+msgid "applepay_active_carriers_instructions"
+msgstr "Seleziona i metodi di spedizione differenti dai punti di ritiro."
+
+msgid "applepay_cart_checkout_option_validation"
+msgstr "Impossibile salvare la configurazione. Si prega di selezionare almeno una pagina sulla quale offrire Apple Pay: Pagina di Checkout o Pagina del Carrello."
+
+msgid "applepay_cart_checkout_option_validation_title"
+msgstr "Impossibile salvare la configurazione"
+
+msgid "applepay_cart_carrier_enabled"
+msgstr "Ti preghiamo di selezionare almeno un metodo di spedizione compatibile con Apple Pay nella pagina carrello o disattivare la funzionalità."
+
+msgid "payplug_required_fields_error"
+msgstr "Ti preghiamo di compilare tutti i campi obbligatori"

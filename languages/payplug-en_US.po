@@ -1,0 +1,622 @@
+# Copyright (C) 2019 Payplug pour WooCommerce (Officiel)
+# This file is distributed under the same license as the PayPlug pour WooCommerce (Officiel) package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Payplug pour WooCommerce (Officiel) 1.0.15\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/payplug-woocommerce\n"
+"POT-Creation-Date: 2022-02-15 22:42+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+msgid "payplug_advanced_settings"
+msgstr "Advanced Settings"
+
+#: src/Gateway/PayplugGatewayRequirements.php:71
+msgid "payplug_PayplugGatewayRequirements_curl_requirement_curlinstalled"
+msgstr "The PHP cURL extension is installed and activated on your server."
+
+msgid "Allow your customers to split payments into 3 or 4 installments, for orders between %s€ and %s€"
+msgstr "Allow your customers to split payments into 3 or 4 installments, for orders between %s€ and %s€"
+
+msgid "3x 4x Oney payments"
+msgstr "3x 4x Oney payments"
+
+msgid "payplug_oneyIT_paywith"
+msgstr ""
+
+#. Plugin Name of the plugin
+msgid "PayPlug pour WooCommerce (Officiel)"
+msgstr "Payplug for WooCommerce"
+
+msgid "payplug_oneyIT_popup-title"
+msgstr ""
+
+msgid "payplug_oneyIT_popup-footer"
+msgstr ""
+
+msgid "payplug_oneyIT_popup-footer_pdf"
+msgstr ""
+
+msgid "payplug_oneyIT-without-fees_popup-footer_pdf"
+msgstr ""
+
+msgid "payplug_oneyIT_popup-url"
+msgstr ""
+
+msgid "payplug_oneyIT_popup-withoutfees-title"
+msgstr ""
+
+msgid "payplug_bancontact_title"
+msgstr "Pay with Bancontact"
+
+msgid "payplug_bancontact_description"
+msgstr "Activate Bancontact payments."
+
+msgid "payplug_bancontact_activate_title"
+msgstr "Activate Bancontact payments"
+
+msgid "payplug_bancontact_activate_label"
+msgstr "Activate Bancontact payments (Beta)"
+
+msgid "payplug_bancontact_activation_description"
+msgstr ""
+
+msgid "payplug_bancontact_activation_request"
+msgstr "Get Bancontact"
+
+msgid "payplug_bancontact_activation_url"
+msgstr "support.payplug.com/hc/en-gb/requests/new"
+
+msgid "payplug_bancontact_testmode_description"
+msgstr "This feature is not available for the TEST mode. Please activate the LIVE mode to be able to use it."
+
+msgid "oney_installments_pop_up"
+msgstr "Oney installments pop-up"
+
+msgid "display_the_oney_installments_pop_up_on_the_product_page"
+msgstr "Display the installments on the Product page"
+
+msgid "payplug_apple_pay_activate_title"
+msgstr "Apple Pay payments"
+
+msgid "payplug_unavailable_testmode_description"
+msgstr "Unavailable in test mode"
+
+msgid "payplug_applepay_unavailable_testmode_description"
+msgstr "Apple Pay is unavailable in TEST mode. Please switch your Payplug module to LIVE mode to activate it."
+
+msgid "payplug_bancontact_unavailable_testmode_description"
+msgstr "Bancontact is unavailable in TEST mode. Please switch your Payplug module to LIVE mode to activate it."
+
+msgid "payplug_amex_unavailable_testmode_description"
+msgstr "American Express is unavailable in TEST mode. Please switch your Payplug module to LIVE mode to activate it."
+
+msgid "payplug_apple_pay_livemode_description"
+msgstr "Display the Apple Pay payment button on your store, on the checkout. This button will only be seen on a Safari browser."
+
+msgid "payplug_apple_pay_unauthorized_error"
+msgstr "You don't have access to this feature yet. To activate Apple Pay, please contact <a href='mailto:support@payplug.com'>support@payplug.com</a>"
+
+msgid "payplug_apple_pay_title"
+msgstr "Pay with Apple Pay"
+
+msgid "payplug_bancontact_unauthorized_message"
+msgstr "You don't have access to this feature yet. To activate Bancontact, please fill in the following form <a href='https://support.payplug.com/hc/en-gb/requests/new' target='_blank'>Submit a request – Help Center</a>"
+
+msgid "payplug_section_logged_title"
+msgstr "General"
+
+msgid "payplug_section_logged_description"
+msgstr "General settings of the module"
+
+msgid "payplug_section_logged_logout"
+msgstr "Log out"
+
+msgid "payplug_section_logged_mode"
+msgstr "Environment"
+
+msgid "payplug_section_logged_test_description"
+msgstr "In TEST mode, all payments will be simulations and will not generate real transactions."
+
+msgid "payplug_section_logged_live_description"
+msgstr "In LIVE mode, the payments will generate real transactions."
+
+msgid "payplug_section_logged_link_access_portal"
+msgstr "Access my Payplug portal"
+
+msgid "payplug_section_header_title"
+msgstr "The payment solution that increases your turnover."
+
+msgid "payplug_section_header_live_description"
+msgstr "Payplug is the French payment solution for SMEs. Boost your performance thanks to our turnkey, conversion-oriented tools."
+
+msgid "payplug_section_header_test_description"
+msgstr "Payplug is the French payment solution for SMEs. Boost your performance thanks to our turnkey, conversion-oriented tools."
+
+msgid "payplug_section_header_enable_label"
+msgstr "Enabled plugin"
+
+msgid "payplug_section_header_disable_label"
+msgstr "Disabled Plugin"
+
+msgid "payplug_section_login_description"
+msgstr "Log in to your Payplug account."
+
+msgid "payplug_section_login_not_registered"
+msgstr "Not registered to Payplug yet?"
+
+msgid "payplug_section_login_connect"
+msgstr "Connect account"
+
+msgid "payplug_section_login_email_label"
+msgstr "E-mail address"
+
+msgid "payplug_section_login_password_label"
+msgstr "Password"
+
+msgid "payplug_section_login_forgot_password"
+msgstr "Forgot your password?"
+
+msgid "payplug_section_subscribe_description"
+msgstr "Registration"
+
+msgid "payplug_section_subscribe_link_create_account"
+msgstr "Create a Payplug account"
+
+msgid "payplug_section_subscribe_content_description"
+msgstr "Create your account to use the module."
+
+msgid "payplug_section_subscribe_already_have_account"
+msgstr "I already have a Payplug account"
+
+msgid "payplug_section_payment_methods_title"
+msgstr "Payment methods"
+
+msgid "payplug_section_payment_methods_description"
+msgstr "Choose the payment methods you wish to offer your customers."
+
+msgid "payplug_section_standard_payment_title"
+msgstr "Payment by card"
+
+msgid "payplug_section_standard_payment_description"
+msgstr "Offer payment by credit card to your customers. Only Euro payments can be processed with Payplug."
+
+msgid "payplug_section_standard_payment_option_title"
+msgstr "Presentation of the payment page"
+
+msgid "payplug_section_standard_payment_redirected_description"
+msgstr "Your customers will be redirected to a customizable payment page hosted by Payplug."
+
+msgid "payplug_section_standard_payment_popup_description"
+msgstr "Your customers will see a customizable payment pop-up window appear on the checkout page of your store."
+
+msgid "payplug_section_standard_payment_option_popup_label"
+msgstr "Pop-up"
+
+msgid "payplug_section_standard_payment_option_redirected_label"
+msgstr "Redirected"
+
+msgid "payplug_section_one_click_option_title"
+msgstr "Activate one-click payment"
+
+msgid "payplug_section_one_click_option_description"
+msgstr "Your customers will be able to register their card and make their next purchase in one click."
+
+msgid "payplug_section_applepay_payment_title"
+msgstr "Apple Pay payment"
+
+msgid "payplug_section_applepay_payment_description"
+msgstr "Display the Apple Pay payment button on your store."
+
+msgid "payplug_section_bancontact_payment_title"
+msgstr "Bancontact payment"
+
+msgid "payplug_know_more_label"
+msgstr " Find out more."
+
+msgid "payplug_error_wrong_credentials"
+msgstr "The email and/or password is incorrect."
+
+msgid "payplug_section_paylater_title"
+msgstr "PayLater"
+
+msgid "payplug_section_paylater_description"
+msgstr "Select your PayLater settings to display the 3x 4x Oney on your shop."
+
+msgid "payplug_section_oney_title"
+msgstr "3x 4x Oney payments"
+
+msgid "payplug_section_paylater_description_oney"
+msgstr "Your customers can choose to pay for their orders in 3 or 4 installments. Choose below whether or not you want to pay all the fees."
+
+msgid "payplug_label_with_fees"
+msgstr "With fees"
+
+msgid "payplug_text_with_fees"
+msgstr "The fees are split between you and your customers."
+
+msgid "payplug_label_without_fees"
+msgstr "Without fees"
+
+msgid "payplug_text_without_fees"
+msgstr "You pay the fees."
+
+msgid "payplug_thresholds_oney_title"
+msgstr "Customise your split payment offer"
+
+msgid "payplug_thresholds_oney_description"
+msgstr "Offer guaranteed split payments for amounts between"
+
+msgid "and"
+msgstr "and"
+
+msgid "payplug_section_bancontact_payment_description"
+msgstr "Allow your customers to pay with their Bancontact cards."
+
+msgid "payplug_section_american_express_payment_title"
+msgstr "AmEx Payment"
+
+msgid "payplug_section_american_express_payment_description"
+msgstr "Allow your customers to pay with their American Express cards."
+
+msgid "payplug_bancontact_access_error"
+msgstr "You don't have access to this feature yet. To activate Bancontact, please fill in <a href='https://support.payplug.com/hc/en-gb/requests/new?ticket_form_id=4583813991452' target='_blank'>the following form</a>"
+
+msgid "payplug_amex_access_error"
+msgstr "You don't have access to this feature yet. To activate American Express, please fill in <a href='https://support.payplug.com/hc/en-gb/requests/new?ticket_form_id=6331992459420' target='_blank'>the following form</a>"
+
+msgid "payplug_applepay_access_error"
+msgstr "You don't have access to this feature yet. To activate Apple Pay, please fill in <a href='https://support.payplug.com/hc/en-gb/requests/new?ticket_form_id=5965121371548' target='_blank'>the following form</a>"
+
+msgid "payplug_enable_feature"
+msgstr "Enable feature"
+
+msgid "payplug_ok"
+msgstr "OK"
+
+msgid "payplug_learn_more"
+msgstr " Find out more"
+
+msgid "payplug_mode_learn_more_url"
+msgstr "https://support.payplug.com/hc/en-gb/articles/360021142492"
+
+msgid "payplug_section_status_title"
+msgstr "Status"
+
+msgid "payplug_section_status_description"
+msgstr "Control your environment to ensure that the module is in perfect working order."
+
+msgid "payplug_section_status_errorMessage"
+msgstr "The configuration requirements for using the Payplug module are not met. Once you have corrected the problems, please refresh the page or click on verify."
+
+msgid "payplug_section_status_check"
+msgstr "Check"
+
+msgid "payplug_section_status_curl"
+msgstr "PHP cURL extension must be enabled on your server."
+
+msgid "payplug_section_status_php"
+msgstr "The PHP version on your server is valid."
+
+msgid "payplug_section_status_ssl"
+msgstr "OpenSSL is up to date."
+
+msgid "payplug_section_status_account"
+msgstr "You must connect your Payplug account."
+
+msgid "payplug_oney_product_page_description"
+msgstr "Your customers can see the details of their 3 or 4 installments."
+
+msgid "payplug_oney_error_title"
+msgstr "Enable feature"
+
+msgid "payplug_oney_error_description"
+msgstr "You do not have access to this feature yet. To activate Oney, please go to your "
+
+msgid "payplug_oney_error_link"
+msgstr "Payplug portal"
+
+msgid "payplug_applepay_more_url"
+msgstr "https://support.payplug.com/hc/en-gb/articles/5149384347292"
+
+msgid "payplug_bancontact_more_url"
+msgstr "https://support.payplug.com/hc/en-gb/articles/4408157435794"
+
+msgid "payplug_amex_more_url"
+msgstr "https://support.payplug.com/hc/en-gb/articles/5701208563996-Collecting-American-Express-Payments-with-PayPlug"
+
+msgid "payplug_section_status_debug_label"
+msgstr "Activate debug mode"
+
+msgid "payplug_section_status_debug_description"
+msgstr "Debug mode saves additional information on your server for each operation done via Payplug plugin (Developer setting)."
+
+msgid "payplug_standard_payment_title_title"
+msgstr "Title"
+
+msgid "payplug_standard_payment_title_description"
+msgstr "The payment solution title displayed to your customers during checkout."
+
+msgid "payplug_standard_payment_title_placeholder"
+msgstr "Pay by credit card"
+
+msgid "payplug_standard_payment_description_title"
+msgstr "Description"
+
+msgid "payplug_standard_payment_description_description"
+msgstr "The payment solution description displayed to your customers during checkout."
+
+msgid "payplug_standard_payment_description_placeholder"
+msgstr "Description"
+
+msgid "payplug_section_status_currency"
+msgstr "Your shop currency has been set up with Euro."
+
+msgid "payplug_save_success_message"
+msgstr "Your configuration have been saved."
+
+msgid "payplug_embeded_option_url"
+msgstr "https://support.payplug.com/hc/en-gb/articles/4409698334098"
+
+msgid "payplug_cancel"
+msgstr "Cancel"
+
+msgid "payplug_live_mode"
+msgstr "LIVE mode"
+
+msgid "payplug_section_logged_modal_description"
+msgstr "Please enter your Payplug account password."
+
+msgid "payplug_inactive_account_warning_title"
+msgstr "Congratulations, your account is connected!"
+
+msgid "payplug_inactive_account_warning_description1"
+msgstr "While your application is being reviewed, you can use the"
+
+msgid "payplug_inactive_account_warning_description2"
+msgstr " <a href='https://support.payplug.com/hc/en-gb/articles/360021142492' target='_blank'>TEST mode</a> "
+
+msgid "payplug_inactive_account_warning_description3"
+msgstr "to discover our module. <span id='inactiveModalClick'>Click here</span> to switch to LIVE mode and collect payments from your customers."
+
+msgid "payplug_inactive_account_error_title"
+msgstr "Your application is being processed."
+
+msgid "payplug_inactive_account_error_description"
+msgstr "For more information, please contact us at support@payplug.com"
+
+msgid "payplug_section_help_description1"
+msgstr "Any questions or concerns?"
+
+msgid "payplug_section_help_description2"
+msgstr "Please visit "
+
+msgid "payplug_section_help_link_help_text"
+msgstr "our helpdesk."
+
+msgid "payplug_section_help_link_help_url"
+msgstr "https://support.payplug.com/hc/en-gb/requests/new"
+
+msgid "payplug_section_status_check_success"
+msgstr "The verification was successfully completed."
+
+msgid "payplug_amex_title"
+msgstr "Pay with Amex"
+
+msgid "payplug_save_changes_text"
+msgstr "Update settings"
+
+msgid "payplug_thresholds_error_msg"
+msgstr "The amount must be between €100 and €3000."
+
+msgid "payplug_section_standard_payment_option_integrated_label"
+msgstr "Embedded"
+
+msgid "payplug_section_standard_payment_integrated_description"
+msgstr "Your customers will see the payment form appear directly on the checkout page of your store."
+
+msgid "payplug_integrated_payment_cardholder"
+msgstr "Cardholder name"
+
+msgid "payplug_integrated_payment_your_card"
+msgstr "YOUR CARD"
+
+msgid "payplug_integrated_payment_card_number"
+msgstr "Card number"
+
+msgid "payplug_integrated_payment_expiration_date"
+msgstr "MM/YY"
+
+msgid "payplug_integrated_payment_cvv"
+msgstr "123"
+
+msgid "payplug_integrated_payment_oneClick"
+msgstr "Save my credit card"
+
+msgid "payplug_integrated_payment_transaction_secure"
+msgstr "Transaction secured by"
+
+msgid "payplug_integrated_payment_privacy_policy"
+msgstr "Privacy Policy"
+
+msgid "payplug_integrated_payment_privacy_policy_url"
+msgstr "https://www.payplug.com/privacy-policy"
+
+msgid "payplug_integrated_payment_empty"
+msgstr "Mandatory field."
+
+msgid "payplug_integrated_payment_cardHolder_error"
+msgstr "Invalid Name and/or Last Name"
+
+msgid "payplug_integrated_payment_pan_error"
+msgstr "Invalid card number."
+
+msgid "payplug_integrated_payment_cvv_error"
+msgstr "Invalid CVV."
+
+msgid "payplug_integrated_payment_exp_error"
+msgstr "Invalid expiration date."
+
+msgid "payplug_integrated_payment_error"
+msgstr "The transaction was not completed, and your card was not charged."
+
+msgid "payplug_thresholds_error_maxtext_msg"
+msgstr "Please note that the maximum amount entered is less than the minimum amount entered."
+
+msgid "payplug_thresholds_error_mintext_msg"
+msgstr "Please note that the minimum amount entered is greater than the maximum amount entered."
+
+msgid "pay_with_satispay"
+msgstr "Pay with Satispay"
+
+msgid "pay_with_mybank"
+msgstr "Pay with MyBank"
+
+msgid "pay_with_sofort"
+msgstr "Pay with SOFORT"
+
+msgid "pay_with_ideal"
+msgstr "Pay with iDEAL"
+
+msgid "satispay_threshold"
+msgstr "The total amount of your order should be between %s€ and %s€ to pay with Satispay."
+
+msgid "mybank_threshold"
+msgstr "The total amount of your order should be between %s€ and %s€ to pay with MyBank."
+
+msgid "sofort_threshold"
+msgstr "The total amount of your order should be between %s€ and %s€ to pay with SOFORT."
+
+msgid "ideal_threshold"
+msgstr "The total amount of your order should be between %s€ and %s€ to pay with iDEAL."
+
+msgid "payplug_satispay_activate"
+msgstr "Satispay payments"
+
+msgid "payplug_satispay_more_url"
+msgstr "https://support.payplug.com/hc/en-gb/articles/8089121532700-Satispay-chez-Payplug"
+
+msgid "payplug_mybank_activate"
+msgstr "MyBank payments"
+
+msgid "payplug_mybank_more_url"
+msgstr "https://support.payplug.com/hc/en-gb/articles/8089123857564-MyBank-chez-Payplug"
+
+msgid "payplug_sofort_activate"
+msgstr "SOFORT payments"
+
+msgid "payplug_sofort_more_url"
+msgstr "https://support.payplug.com/hc/en-gb/articles/8089091941660-Sofort-chez-Payplug"
+
+msgid "payplug_ideal_activate"
+msgstr "iDEAL payments"
+
+msgid "payplug_ideal_more_url"
+msgstr "https://support.payplug.com/hc/en-gb/articles/8089119071132"
+
+msgid "payplug_satispay_unavailable_testmode_description"
+msgstr "Satispay is unavailable in TEST mode. Please switch your Payplug module to LIVE mode to activate it."
+
+msgid "payplug_mybank_unavailable_testmode_description"
+msgstr "Mybank is unavailable in TEST mode. Please switch your Payplug module to LIVE mode to activate it."
+
+msgid "payplug_sofort_unavailable_testmode_description"
+msgstr "SOFORT is unavailable in TEST mode. Please switch your Payplug module to LIVE mode to activate it."
+
+msgid "payplug_ideal_unavailable_testmode_description"
+msgstr "iDeal is unavailable in TEST mode. Please switch your Payplug module to LIVE mode to activate it."
+
+msgid "payplug_section_satispay_payment_description"
+msgstr "Allow your customers to pay via Satispay."
+
+msgid "payplug_section_mybank_payment_description"
+msgstr "Allow your customers to pay via Mybank."
+
+msgid "payplug_section_sofort_payment_description"
+msgstr "Allow your customers to pay via SOFORT."
+
+msgid "payplug_section_ideal_payment_description"
+msgstr "Allow your customers to pay via iDeal."
+
+msgid "payplug_satispay_access_error"
+msgstr "You don't have access to this feature yet. To activate Satispay, please fill in <a href='https://support.payplug.com/hc/en-gb/requests/new?ticket_form_id=8248599064860' target='_blank'>the following form</a>"
+
+msgid "payplug_mybank_access_error"
+msgstr "You don't have access to this feature yet. To activate MyBank, please fill in <a href='https://support.payplug.com/hc/en-gb/requests/new?ticket_form_id=8248631711516' target='_blank'>the following form</a>"
+
+msgid "payplug_sofort_access_error"
+msgstr "You don't have access to this feature yet. To activate SOFORT, please fill in <a href='https://support.payplug.com/hc/en-gb/requests/new?ticket_form_id=8248655934108' target='_blank'>the following form</a>"
+
+msgid "payplug_ideal_access_error"
+msgstr "You don't have access to this feature yet. To activate iDEAL, please fill in <a href='https://support.payplug.com/hc/en-gb/requests/new?ticket_form_id=8248663314844' target='_blank'>the following form</a>"
+
+msgid "payplug_refund_disabled_error"
+msgstr ""
+"The automatic refund is not available from your back-office.\n"
+"Please contact support@payplug.com"
+
+msgid "payplug_integrated_access_error"
+msgstr "You don't have access to this feature yet. To activate Integrated Payments, please fill in <a href='https://support.payplug.com/hc/en-gb/requests/new?ticket_form_id=6331992459420' target='_blank'>the following form</a>"
+
+msgid "payplug_section_standard_ip_warning"
+msgstr "The Embedded Payment display is only compatible with a standardized checkout page that meets the WooCommerce guidelines. Some checkout customizations will not allow the feature to work (changing the “Place order” button, etc.)."
+
+msgid "payment_method"
+msgstr "Payment method"
+
+msgid "payplug_payment_gateways_country_permissions"
+msgstr "%s is only available for payers with billing addresses in the following countries: "
+
+msgid "oney_financing_cost"
+msgstr "Financing cost :"
+
+msgid "oney_total"
+msgstr "Total :"
+
+msgid "applepay_display_choice_title"
+msgstr "Choose on which page(s) you would like to propose Apple Pay payment :"
+
+msgid "applepay_display_checkout"
+msgstr "Display the button on the checkout page"
+
+msgid "applepay_display_cart"
+msgstr "Display the button on the cart page"
+
+msgid "applepay_display_product"
+msgstr "Display the button on the product page"
+
+msgid "applepay_active_carriers_title"
+msgstr "Methods of delivery active on your shop."
+
+msgid "applepay_active_carriers_alert"
+msgstr "If no delivery method is selected, the Apple Pay button will not be displayed."
+
+msgid "applepay_active_carriers_description"
+msgstr "With ApplePay, deliveries are only possible to addresses stored in your customers' wallet (home address, office, etc.). "
+
+msgid "applepay_active_carriers_description_bold"
+msgstr "Deliveries to collection points are not possible, "
+
+msgid "applepay_active_carriers_description_warning"
+msgstr " so they will not be offered to your customers (e.g., delivery to a store, collection point, or pick-up station)"
+
+msgid "applepay_active_carriers_instructions"
+msgstr "Please select the delivery methods that are not collection points."
+
+msgid "applepay_cart_checkout_option_validation"
+msgstr "Unable to save the configuration. Please select at least one page to offer Apple Pay: Checkout Page or Cart Page."
+
+msgid "applepay_cart_checkout_option_validation_title"
+msgstr "Unable to save the configuration"
+
+msgid "applepay_cart_carrier_enabled"
+msgstr "Please select at least one compatible delivery method for Apple Pay Cart or disable the feature."
+
+msgid "payplug_required_fields_error"
+msgstr "Please complete all required fields."
